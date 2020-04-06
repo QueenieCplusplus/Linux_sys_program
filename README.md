@@ -5,8 +5,7 @@ using C
 
 # Linux
 
-Unix-alike, the distinguish way to specifies the Linux & Unix sys, is the Linux sys also support other sys calls.
-
+Unix-alike, the distinguish way to specifies the Linux & Unix sys, is the Linux sys also support other sys calls, and offers more features.
 
 # C Code Base 
 
