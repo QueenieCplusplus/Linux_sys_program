@@ -15,7 +15,7 @@ Unix-alike, the distinguish way to specifies the Linux & Unix sys, is the Linux 
 
 https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/open.c
 
-(2) Socket IO (Stream and Buffer)
+(2) Socket IO (Stream)
 
 * Process 
 
