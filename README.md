@@ -3,6 +3,12 @@ using C
 
 (to be continued...)
 
+# Linux
+
+Unix-alike, the distinguish way to specifies the Linux & Unix sys, is the Linux sys also support other sys calls.
+
+
+# C Code Base 
 
 * IO
 
