@@ -19,6 +19,8 @@ https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/read.c (write 
 
 (2) Socket IO (Stream)
 
+https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/rewind.c
+
 * Process 
 
 * Threads
