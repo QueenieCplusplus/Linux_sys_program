@@ -29,6 +29,8 @@ https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/poll.c
 
 https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/fork.c
 
+https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/atexit.c
+
 * Threads
 
 * Memory Mgmt
