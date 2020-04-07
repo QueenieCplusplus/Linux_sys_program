@@ -37,6 +37,8 @@ and wait()
 
 https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/pthread_create.c
 
+and mutex_lock
+
 * Memory Mgmt
 
 * Signal
