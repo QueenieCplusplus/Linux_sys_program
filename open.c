@@ -11,7 +11,7 @@
 int fd = open("~/pintred/Desktop/MBTI/ＩＮＦＪ/INFJ.png",O_RDONLY);
 
 if(fd == -1) {
-    print("error occurs.");
+    printf("error occurs.");
 }
 
 
