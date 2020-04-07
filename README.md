@@ -21,6 +21,8 @@ https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/read.c (write 
 
 https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/rewind.c
 
+https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/select.c
+
 * Process 
 
 * Threads
