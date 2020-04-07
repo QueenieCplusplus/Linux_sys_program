@@ -29,10 +29,10 @@ https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/poll.c
 
 * Threads
 
+* Memory Mgmt
+
 * Signal
 
 * File Sys - Directory
-
-* Memory Mgmt
 
 * Time
