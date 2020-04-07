@@ -16,6 +16,8 @@ int funcQ(){
     if(fd == -1) {
         printf("error occurs.");
     }
+    
+    return 0;
 }
 
 int main(){
