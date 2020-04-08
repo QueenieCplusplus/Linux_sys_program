@@ -42,6 +42,12 @@ and mutex_lock
 
 https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/malloc.c
 
+free()
+
+posix_memalign()
+
+heap & stack, 堆積與堆疊 using sbrk()
+
 * Signal
 
 * File Sys - Directory
