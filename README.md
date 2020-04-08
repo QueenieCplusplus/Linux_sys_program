@@ -1,7 +1,6 @@
 # Linux_sys_program
-using C
 
-(to be continued...)
+using C
 
 # Linux
 
@@ -41,7 +40,7 @@ and mutex_lock
 
 * Memory Mgmt
 
-to be continued...
+https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/malloc.c
 
 * Signal
 
