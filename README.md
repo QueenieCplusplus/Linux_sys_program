@@ -48,6 +48,8 @@ posix_memalign()
 
 heap & stack, 堆積與堆疊 using sbrk()
 
+mmap()
+
 * Signal
 
 * File Sys - Directory
