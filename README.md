@@ -73,6 +73,8 @@ https://github.com/QueenieCplusplus/Pointer_and_Memory
 
 2, ptr and array_list
 
+https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/ptr_and_array.c
+
 3, ptr and func_call
 
 4, ptr and string or char
