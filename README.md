@@ -60,6 +60,8 @@ mmap()
 
 0, all about memory
 
+https://github.com/QueenieCplusplus/Pointer_and_Memory
+
 1, ptr and variable
 
 2, ptr and array_list
