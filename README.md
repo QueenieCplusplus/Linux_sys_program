@@ -71,6 +71,8 @@ https://github.com/QueenieCplusplus/Pointer_and_Memory
 
 1, ptr and variable
 
+https://github.com/QueenieCplusplus/Pointer_and_Memory/blob/master/ptr_and_var.c
+
 2, ptr and array_list
 
 https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/ptr_and_array.c
