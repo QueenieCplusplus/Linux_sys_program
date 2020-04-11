@@ -1,6 +1,11 @@
 # Linux_sys_program
 
-using C
+using C （System Programming Language）. 除了撰寫系統，亦可撰寫網路通訊和嵌入式程式。
+總之，學習此語言，會拓寬你的視野眼界，一起感受唄～～～ ：）
+
+# Unix
+
+C 語言 (1989) 是美國電話與電報公司內部使用的語言，然而為了公佈 Unix sys, 只好被迫公開此語言。
 
 # Linux, 系統程式設計
 
@@ -57,6 +62,8 @@ mmap()
 * Time
 
 # Pointer, 記憶體及其指標
+
+C 語言最強大的特色為指標，是 Unix 與 Linux 作業系統的核心語言，意即這兩種作業系統是由 C 寫成的！
 
 0, all about memory
 
