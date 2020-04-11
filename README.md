@@ -58,6 +58,8 @@ mmap()
 
 # Pointer, 記憶體及其指標
 
+0, all about memory
+
 1, ptr and variable
 
 2, ptr and array_list
