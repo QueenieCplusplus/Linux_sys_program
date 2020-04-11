@@ -83,6 +83,8 @@ https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/ptr_and_array.
 
 * call by ref, 傳址（參照）呼叫
 
+https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/ptr_and_func.c
+
 4, ptr and string or char
 
 5, ptr and structure
