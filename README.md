@@ -79,6 +79,10 @@ https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/ptr_and_array.
 
 3, ptr and func_call
 
+* call by val, 傳值呼叫
+
+* call by ref, 傳址（參照）呼叫
+
 4, ptr and string or char
 
 5, ptr and structure
