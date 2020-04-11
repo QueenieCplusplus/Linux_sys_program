@@ -2,11 +2,11 @@
 
 using C
 
-# Linux
+# Linux, 系統程式設計
 
 Unix-alike, the distinguish way to specifies the Linux & Unix sys, is the Linux sys also support other sys calls, and offers more features.
 
-# C Code Base 
+# C Code Base, 基本標準函式庫方法調用
 
 * IO
 
@@ -55,3 +55,5 @@ mmap()
 * File Sys - Directory
 
 * Time
+
+# Pointer, 記憶體及其指標
