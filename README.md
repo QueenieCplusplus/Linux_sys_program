@@ -57,3 +57,19 @@ mmap()
 * Time
 
 # Pointer, 記憶體及其指標
+
+1, ptr and variable
+
+2, ptr and array_list
+
+3, ptr and func_call
+
+4, ptr and string or char
+
+5, ptr and structure
+
+6, ptr and linked_list
+
+7, binary tree with ptr
+
+8, ptr and file_io
